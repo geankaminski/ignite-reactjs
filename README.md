@@ -1,8 +1,8 @@
-<!-- <h1 align="center">
+<h1 align="center">
 	<img
-		alt="Ignite Node"
+		alt="Ignite React"
 		src="assets/ignite.png">
-</h1> -->
+</h1>
 
 <h3 align="center">
 	Repositório de códigos desenvolvidos durante a trilha React.js do Ignite
