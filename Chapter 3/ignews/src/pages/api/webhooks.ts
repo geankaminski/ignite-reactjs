@@ -24,9 +24,8 @@ export const config = {
 
 const relevantEvents = new Set([
     'checkout.session.completed',
-    'customer.subscriptions.created',
-    'customer.subscriptions.updated',
-    'customer.subscriptions.deleted'
+    'customer.subscription.updated',
+    'customer.subscription.deleted'
 ])
 
 // eslint-disable-next-line import/no-anonymous-default-export
